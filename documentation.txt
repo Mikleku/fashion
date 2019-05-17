@@ -1,0 +1,8 @@
+
+
+1)set settings in settings.py
+    collection_name - define working dir
+2)upload collction to server by launch upload.py
+3)send uploaded fiels to model by launch recognition_save2csv.py
+4)now you have csv fuile with information
+5)get information from csv by launch data_placer.py

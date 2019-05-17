@@ -1,0 +1,57 @@
+img_url,article_name,confidence,bounding_box,output
+.my/a_peace_treaty_2018/3.jpg,jewelry,0.5385585427284241,"{'x0': 447, 'x1': 470, 'y0': 160, 'y1': 199}",data://.algo/algorithmiahq/deepFashion/temp/1f243ac7-a216-4b35-ba6c-990a918d79d3.png
+.my/a_peace_treaty_2018/3.jpg,casual dress,0.8648462295532227,"{'x0': 133, 'x1': 644, 'y0': 290, 'y1': 1102}",data://.algo/algorithmiahq/deepFashion/temp/1f243ac7-a216-4b35-ba6c-990a918d79d3.png
+.my/a_peace_treaty_2018/8.jpg,jewelry,0.5107566714286804,"{'x0': 299, 'x1': 328, 'y0': 148, 'y1': 194}",data://.algo/algorithmiahq/deepFashion/temp/5e2d788a-cbf4-4931-bc8f-64aca159b717.png
+.my/a_peace_treaty_2018/8.jpg,jewelry,0.6280559301376343,"{'x0': 420, 'x1': 451, 'y0': 155, 'y1': 207}",data://.algo/algorithmiahq/deepFashion/temp/5e2d788a-cbf4-4931-bc8f-64aca159b717.png
+.my/a_peace_treaty_2018/8.jpg,button down shirt,0.967019498348236,"{'x0': 171, 'x1': 587, 'y0': 228, 'y1': 969}",data://.algo/algorithmiahq/deepFashion/temp/5e2d788a-cbf4-4931-bc8f-64aca159b717.png
+.my/a_peace_treaty_2018/15.jpg,jewelry,0.705369234085083,"{'x0': 304, 'x1': 339, 'y0': 101, 'y1': 161}",data://.algo/algorithmiahq/deepFashion/temp/a234d1b1-a22c-43b8-a731-900ed7b047dc.png
+.my/a_peace_treaty_2018/15.jpg,jewelry,0.7997596859931946,"{'x0': 406, 'x1': 429, 'y0': 97, 'y1': 152}",data://.algo/algorithmiahq/deepFashion/temp/a234d1b1-a22c-43b8-a731-900ed7b047dc.png
+.my/a_peace_treaty_2018/23.jpg,button down shirt,0.5261203050613403,"{'x0': 168, 'x1': 642, 'y0': 246, 'y1': 1013}",data://.algo/algorithmiahq/deepFashion/temp/f2153808-fdc9-44bc-8170-81a6e5bc2b62.png
+.my/a_peace_treaty_2018/23.jpg,casual dress,0.5544515252113342,"{'x0': 178, 'x1': 617, 'y0': 255, 'y1': 1051}",data://.algo/algorithmiahq/deepFashion/temp/f2153808-fdc9-44bc-8170-81a6e5bc2b62.png
+.my/a_peace_treaty_2018/23.jpg,jewelry,0.8297539353370667,"{'x0': 410, 'x1': 452, 'y0': 139, 'y1': 211}",data://.algo/algorithmiahq/deepFashion/temp/f2153808-fdc9-44bc-8170-81a6e5bc2b62.png
+.my/a_peace_treaty_2018/16.jpg,jewelry,0.5445502996444702,"{'x0': 404, 'x1': 429, 'y0': 110, 'y1': 155}",data://.algo/algorithmiahq/deepFashion/temp/e3f492d7-3e0a-4ef3-9127-4d89ee40a876.png
+.my/a_peace_treaty_2018/16.jpg,casual dress,0.6833716034889221,"{'x0': 212, 'x1': 619, 'y0': 236, 'y1': 1068}",data://.algo/algorithmiahq/deepFashion/temp/e3f492d7-3e0a-4ef3-9127-4d89ee40a876.png
+.my/a_peace_treaty_2018/20.jpg,jewelry,0.6790437698364258,"{'x0': 399, 'x1': 540, 'y0': 300, 'y1': 541}",data://.algo/algorithmiahq/deepFashion/temp/5108843a-7d15-4054-9543-c69012bf2b7e.png
+.my/a_peace_treaty_2018/20.jpg,casual dress,0.7314587235450745,"{'x0': 218, 'x1': 668, 'y0': 305, 'y1': 1146}",data://.algo/algorithmiahq/deepFashion/temp/5108843a-7d15-4054-9543-c69012bf2b7e.png
+.my/a_peace_treaty_2018/20.jpg,jewelry,0.8820765614509583,"{'x0': 529, 'x1': 559, 'y0': 198, 'y1': 251}",data://.algo/algorithmiahq/deepFashion/temp/5108843a-7d15-4054-9543-c69012bf2b7e.png
+.my/a_peace_treaty_2018/6.jpg,jewelry,0.7956416010856628,"{'x0': 393, 'x1': 416, 'y0': 71, 'y1': 113}",data://.algo/algorithmiahq/deepFashion/temp/021fc6ca-b95f-4119-98e2-fcf472916861.png
+.my/a_peace_treaty_2018/19.jpg,jewelry,0.7389742136001587,"{'x0': 493, 'x1': 520, 'y0': 124, 'y1': 173}",data://.algo/algorithmiahq/deepFashion/temp/1b50af2b-7264-4fc0-a22f-12feef03ee5e.png
+.my/a_peace_treaty_2018/19.jpg,pants casual,0.7579628825187683,"{'x0': 122, 'x1': 552, 'y0': 595, 'y1': 1150}",data://.algo/algorithmiahq/deepFashion/temp/1b50af2b-7264-4fc0-a22f-12feef03ee5e.png
+.my/a_peace_treaty_2018/19.jpg,sweater,0.846618115901947,"{'x0': 125, 'x1': 680, 'y0': 261, 'y1': 884}",data://.algo/algorithmiahq/deepFashion/temp/1b50af2b-7264-4fc0-a22f-12feef03ee5e.png
+.my/a_peace_treaty_2018/t768x1152.jpg,jewelry,0.5525909662246704,"{'x0': 448, 'x1': 470, 'y0': 140, 'y1': 183}",data://.algo/algorithmiahq/deepFashion/temp/b0f2fbf1-f2aa-4b3d-a66e-55416b479e94.png
+.my/a_peace_treaty_2018/t768x1152.jpg,casual dress,0.6041849851608276,"{'x0': 105, 'x1': 607, 'y0': 217, 'y1': 1114}",data://.algo/algorithmiahq/deepFashion/temp/b0f2fbf1-f2aa-4b3d-a66e-55416b479e94.png
+.my/a_peace_treaty_2018/27.jpg,jewelry,0.5517169237136841,"{'x0': 350, 'x1': 363, 'y0': 149, 'y1': 175}",data://.algo/algorithmiahq/deepFashion/temp/ce7851ef-eab8-4cd1-bdd5-05b05f1ff19a.png
+.my/a_peace_treaty_2018/27.jpg,jewelry,0.6106207966804504,"{'x0': 357, 'x1': 379, 'y0': 139, 'y1': 181}",data://.algo/algorithmiahq/deepFashion/temp/ce7851ef-eab8-4cd1-bdd5-05b05f1ff19a.png
+.my/a_peace_treaty_2018/27.jpg,casual dress,0.8917691111564636,"{'x0': 107, 'x1': 509, 'y0': 211, 'y1': 1087}",data://.algo/algorithmiahq/deepFashion/temp/ce7851ef-eab8-4cd1-bdd5-05b05f1ff19a.png
+.my/a_peace_treaty_2018/1.jpg,button down shirt,0.5849104523658752,"{'x0': 148, 'x1': 555, 'y0': 166, 'y1': 515}",data://.algo/algorithmiahq/deepFashion/temp/9a8050b5-5a54-4b2f-a96e-be837790f9d3.png
+.my/a_peace_treaty_2018/1.jpg,jewelry,0.6702633500099182,"{'x0': 237, 'x1': 273, 'y0': 89, 'y1': 149}",data://.algo/algorithmiahq/deepFashion/temp/9a8050b5-5a54-4b2f-a96e-be837790f9d3.png
+.my/a_peace_treaty_2018/1.jpg,jewelry,0.7603159546852112,"{'x0': 333, 'x1': 358, 'y0': 92, 'y1': 143}",data://.algo/algorithmiahq/deepFashion/temp/9a8050b5-5a54-4b2f-a96e-be837790f9d3.png
+.my/a_peace_treaty_2018/1.jpg,pants casual,0.8872926235198975,"{'x0': 168, 'x1': 422, 'y0': 397, 'y1': 994}",data://.algo/algorithmiahq/deepFashion/temp/9a8050b5-5a54-4b2f-a96e-be837790f9d3.png
+.my/a_peace_treaty_2018/2.jpg,jewelry,0.710188627243042,"{'x0': 401, 'x1': 419, 'y0': 116, 'y1': 149}",data://.algo/algorithmiahq/deepFashion/temp/9f3eb47b-3bac-4faa-86dd-e0b909861d4b.png
+.my/a_peace_treaty_2018/2.jpg,casual dress,0.9549762606620787,"{'x0': 170, 'x1': 522, 'y0': 160, 'y1': 697}",data://.algo/algorithmiahq/deepFashion/temp/9f3eb47b-3bac-4faa-86dd-e0b909861d4b.png
+.my/a_peace_treaty_2018/13.jpg,jewelry,0.5500280261039734,"{'x0': 406, 'x1': 430, 'y0': 89, 'y1': 139}",data://.algo/algorithmiahq/deepFashion/temp/3b5f5a75-e117-4e11-a50d-0faf49e2b822.png
+.my/a_peace_treaty_2018/13.jpg,jewelry,0.6570820808410645,"{'x0': 284, 'x1': 313, 'y0': 97, 'y1': 140}",data://.algo/algorithmiahq/deepFashion/temp/3b5f5a75-e117-4e11-a50d-0faf49e2b822.png
+.my/a_peace_treaty_2018/13.jpg,shorts,0.6693180203437805,"{'x0': 274, 'x1': 487, 'y0': 508, 'y1': 892}",data://.algo/algorithmiahq/deepFashion/temp/3b5f5a75-e117-4e11-a50d-0faf49e2b822.png
+.my/a_peace_treaty_2018/13.jpg,tunic,0.8024110198020935,"{'x0': 178, 'x1': 590, 'y0': 175, 'y1': 982}",data://.algo/algorithmiahq/deepFashion/temp/3b5f5a75-e117-4e11-a50d-0faf49e2b822.png
+.my/a_peace_treaty_2018/4.jpg,jewelry,0.620837390422821,"{'x0': 395, 'x1': 431, 'y0': 151, 'y1': 217}",data://.algo/algorithmiahq/deepFashion/temp/f151719f-42f4-4b2f-9311-8aeb1ec0865d.png
+.my/a_peace_treaty_2018/4.jpg,jewelry,0.7397251725196838,"{'x0': 285, 'x1': 309, 'y0': 124, 'y1': 165}",data://.algo/algorithmiahq/deepFashion/temp/f151719f-42f4-4b2f-9311-8aeb1ec0865d.png
+.my/a_peace_treaty_2018/24.jpg,jewelry,0.5377950072288513,"{'x0': 145, 'x1': 176, 'y0': 150, 'y1': 205}",data://.algo/algorithmiahq/deepFashion/temp/b7c41d26-3d4d-43b1-aa74-181926bdfa39.png
+.my/a_peace_treaty_2018/24.jpg,sweater,0.7240259051322937,"{'x0': 85, 'x1': 570, 'y0': 240, 'y1': 1071}",data://.algo/algorithmiahq/deepFashion/temp/b7c41d26-3d4d-43b1-aa74-181926bdfa39.png
+.my/a_peace_treaty_2018/25.jpg,jewelry,0.6462569236755371,"{'x0': 439, 'x1': 456, 'y0': 102, 'y1': 140}",data://.algo/algorithmiahq/deepFashion/temp/4f9b99e3-13bd-4471-9980-ad07bd01622c.png
+.my/a_peace_treaty_2018/25.jpg,casual dress,0.9434139728546144,"{'x0': 237, 'x1': 551, 'y0': 167, 'y1': 870}",data://.algo/algorithmiahq/deepFashion/temp/4f9b99e3-13bd-4471-9980-ad07bd01622c.png
+.my/a_peace_treaty_2018/12.jpg,jewelry,0.7498757243156433,"{'x0': 320, 'x1': 345, 'y0': 102, 'y1': 152}",data://.algo/algorithmiahq/deepFashion/temp/b3217c98-3ccd-47d6-bb79-0f9fd727e0c0.png
+.my/a_peace_treaty_2018/12.jpg,jewelry,0.8053077459335327,"{'x0': 435, 'x1': 456, 'y0': 108, 'y1': 145}",data://.algo/algorithmiahq/deepFashion/temp/b3217c98-3ccd-47d6-bb79-0f9fd727e0c0.png
+.my/a_peace_treaty_2018/12.jpg,casual dress,0.9159383177757264,"{'x0': 119, 'x1': 568, 'y0': 238, 'y1': 1065}",data://.algo/algorithmiahq/deepFashion/temp/b3217c98-3ccd-47d6-bb79-0f9fd727e0c0.png
+.my/a_peace_treaty_2018/14.jpg,button down shirt,0.9197590351104736,"{'x0': 186, 'x1': 636, 'y0': 155, 'y1': 883}",data://.algo/algorithmiahq/deepFashion/temp/fe6d5bc0-033c-452e-aec6-4d5f60e976be.png
+.my/a_peace_treaty_2018/21.jpg,jewelry,0.6520224213600159,"{'x0': 391, 'x1': 501, 'y0': 264, 'y1': 811}",data://.algo/algorithmiahq/deepFashion/temp/436f338d-2855-434d-9356-b7d56d842fd6.png
+.my/a_peace_treaty_2018/26.jpg,jewelry,0.698599100112915,"{'x0': 352, 'x1': 378, 'y0': 122, 'y1': 166}",data://.algo/algorithmiahq/deepFashion/temp/6f81bdf4-9ccd-4e5f-9eea-df360d5e5b57.png
+.my/a_peace_treaty_2018/26.jpg,jewelry,0.7717511653900146,"{'x0': 479, 'x1': 499, 'y0': 119, 'y1': 149}",data://.algo/algorithmiahq/deepFashion/temp/6f81bdf4-9ccd-4e5f-9eea-df360d5e5b57.png
+.my/a_peace_treaty_2018/17.jpg,t shirt,0.5045848488807678,"{'x0': 241, 'x1': 538, 'y0': 171, 'y1': 535}",data://.algo/algorithmiahq/deepFashion/temp/b258a588-7ff0-4bf2-b841-8be5a27b3893.png
+.my/a_peace_treaty_2018/17.jpg,sweater,0.5191492438316345,"{'x0': 243, 'x1': 539, 'y0': 167, 'y1': 534}",data://.algo/algorithmiahq/deepFashion/temp/b258a588-7ff0-4bf2-b841-8be5a27b3893.png
+.my/a_peace_treaty_2018/17.jpg,jewelry,0.5487812161445618,"{'x0': 298, 'x1': 325, 'y0': 97, 'y1': 144}",data://.algo/algorithmiahq/deepFashion/temp/b258a588-7ff0-4bf2-b841-8be5a27b3893.png
+.my/a_peace_treaty_2018/17.jpg,jewelry,0.5831806659698486,"{'x0': 402, 'x1': 429, 'y0': 83, 'y1': 134}",data://.algo/algorithmiahq/deepFashion/temp/b258a588-7ff0-4bf2-b841-8be5a27b3893.png
+.my/a_peace_treaty_2018/17.jpg,jewelry,0.8172520995140076,"{'x0': 401, 'x1': 422, 'y0': 89, 'y1': 123}",data://.algo/algorithmiahq/deepFashion/temp/b258a588-7ff0-4bf2-b841-8be5a27b3893.png
+.my/a_peace_treaty_2018/17.jpg,pants casual,0.8490145802497864,"{'x0': 138, 'x1': 452, 'y0': 367, 'y1': 1146}",data://.algo/algorithmiahq/deepFashion/temp/b258a588-7ff0-4bf2-b841-8be5a27b3893.png
+.my/a_peace_treaty_2018/11.jpg,casual dress,0.5885423421859741,"{'x0': 171, 'x1': 628, 'y0': 189, 'y1': 1110}",data://.algo/algorithmiahq/deepFashion/temp/75254b5b-84d7-4de2-84ea-aa04660c8ebe.png
+.my/a_peace_treaty_2018/7.jpg,button down shirt,0.6042816638946533,"{'x0': 145, 'x1': 623, 'y0': 249, 'y1': 1109}",data://.algo/algorithmiahq/deepFashion/temp/36d7552d-38f3-47ed-aeb0-7900c832ce7f.png
+.my/a_peace_treaty_2018/7.jpg,jewelry,0.8527625203132629,"{'x0': 303, 'x1': 449, 'y0': 298, 'y1': 539}",data://.algo/algorithmiahq/deepFashion/temp/36d7552d-38f3-47ed-aeb0-7900c832ce7f.png
